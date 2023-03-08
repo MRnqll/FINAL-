@@ -95,3 +95,25 @@ body{
     font-weight: bold;
     font-size: calc(15px + 1vw);
 }
+
+
+        /* Background */
+
+.parent {
+    position: relative;
+    top: 0;
+    left: 0;
+}
+  
+.mainbody {
+    position: relative;
+    top: 0;
+    left: 0;
+    justify-content: center;
+    height: 650px;
+    width: 859px;
+    padding-top: 3px;
+    padding-bottom: 1px;
+    margin-left: 2px;
+  
+}
